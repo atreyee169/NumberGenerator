@@ -44,5 +44,6 @@ The third API when called with a completed task should return the list of number
 
 # HOW To RUN
 Build the project using command: mvn package
+
 Run the jar using command: java -jar target/numbergenerator-0.0.1-SNAPSHOT.jar
 
